@@ -1,0 +1,17 @@
+Snapify — Copyright (c) 2026 aywalh. All rights reserved.
+
+Snapify is proprietary, closed-source software, provided free of charge.
+
+You may download, install and use the released binaries for personal and
+commercial purposes. You may not reverse engineer, decompile, modify, sell
+or redistribute Snapify, or host the installers elsewhere, without written
+permission.
+
+The software is provided "as is", without warranty of any kind. In no event
+shall the author be liable for any claim, damages or other liability arising
+from the use of the software.
+
+Third-party components:
+- FFmpeg (https://ffmpeg.org) ships as the separate program ffmpeg.exe and is
+  licensed under the GNU GPL v3. Its source code is available at
+  https://github.com/FFmpeg/FFmpeg and https://www.gyan.dev/ffmpeg/builds/.
