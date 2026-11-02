@@ -68,4 +68,4 @@ Found a bug or have an idea? [Open an issue](https://github.com/aywalh/snapify/i
 
 ---
 
-<sub>Snapify is free to use, but it is not open source. © 2026 aywalh. All rights reserved. See [LICENSE](LICENSE). Recording uses <a href="https://ffmpeg.org">FFmpeg</a>, licensed under the GPL; it ships as a separate program next to Snapify.</sub>
+<sub>Snapify is free to use. It is closed source for now, and we're working toward open source. © 2026 aywalh. All rights reserved. See [LICENSE](LICENSE). Recording uses <a href="https://ffmpeg.org">FFmpeg</a>, licensed under the GPL; it ships as a separate program next to Snapify.</sub>
