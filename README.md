@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/aywalh/snapify/releases/latest"><img src="https://img.shields.io/github/v/release/aywalh/snapify?style=flat-square&color=c8894a&label=download" alt="Latest release"></a>
-  <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-2a2520?style=flat-square" alt="Windows 10 and 11">
-  <a href="https://github.com/aywalh/snapify/releases"><img src="https://img.shields.io/github/downloads/aywalh/snapify/total?style=flat-square&color=6f9a6a" alt="Downloads"></a>
+  <a href="https://github.com/aywalh/snapify/releases/latest"><img src="https://img.shields.io/github/v/release/aywalh/snapify?style=flat-square&color=636366&label=download" alt="Latest release"></a>
+  <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-1d1d1f?style=flat-square" alt="Windows 10 and 11">
+  <a href="https://github.com/aywalh/snapify/releases"><img src="https://img.shields.io/github/downloads/aywalh/snapify/total?style=flat-square&color=8e8e93" alt="Downloads"></a>
 </p>
 
 ---
@@ -19,11 +19,16 @@ Grab **`Snapify_x.y.z_x64-setup.exe`** from the [latest release](https://github.
 
 Snapify updates itself: when a new version is out, a banner appears on the shelf. One click installs it and restarts.
 
+## See it in action
+
+<p align="center"><a href="assets/features.mp4"><img src="assets/features.gif" alt="Snapify: hovering the tools, snipping, marking up, rewinding and recording" width="100%"></a></p>
+<p align="center"><sub>Click for the full-quality video</sub></p>
+
 ## What it does
 
 <table>
-<tr><td width="50%"><img src="assets/shelf-dark.png" alt="Shelf in espresso"></td><td width="50%"><img src="assets/editor-light.png" alt="Editor in crème"></td></tr>
-<tr><td align="center"><sub>The shelf, in espresso</sub></td><td align="center"><sub>The editor, in crème</sub></td></tr>
+<tr><td width="50%"><img src="assets/shelf-dark.png" alt="The shelf in dark mode"></td><td width="50%"><img src="assets/editor-light.png" alt="The editor in light mode"></td></tr>
+<tr><td align="center"><sub>The shelf, in dark mode</sub></td><td align="center"><sub>The editor, in light mode</sub></td></tr>
 </table>
 
 | | |
