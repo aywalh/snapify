@@ -40,6 +40,8 @@ Snapify updates itself: when a new version is out, a banner appears on the shelf
 | **Scrolling snip** | Capture a whole long page in one image. |
 | **Pin & Live Pin** | Float any snip above everything, or keep a live view of a part of your screen. |
 | **Measure** | Pixel distances and sizes on anything on screen. |
+| **Copy Text** | Drag over anything on screen and its text is copied, recognized offline. |
+| **Blur & redact** | Faces are found for you, and one click hides emails, card and phone numbers. The pixels are really gone, not just covered. |
 | **Export** | PNG, JPEG, WebP or AVIF. Set a max file size (say, 10 MB for Discord) and Snapify finds the best quality that fits. |
 | **Drag & drop** | Drop or paste images and videos into Snapify. Ctrl + drag a snip out into Discord, Explorer or mail. |
 
@@ -60,6 +62,7 @@ Snapify updates itself: when a new version is out, a banner appears on the shelf
 | `Ctrl` `Shift` `6` | Rewind |
 | `Ctrl` `Shift` `3` | Copy screen |
 | `Ctrl` `Shift` `2` | Open the shelf |
+| `Ctrl` `Shift` `7` | Copy text |
 
 All shortcuts can be changed in Settings.
 
