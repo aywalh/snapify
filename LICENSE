@@ -40,3 +40,15 @@ Third-party components:
     LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
     SOFTWARE.
+
+- The optional "Remove background" part, downloaded by Snapify Setup only when
+  you pick it, contains:
+  - BiRefNet (https://github.com/ZhengPeng7/BiRefNet), MIT License,
+    Copyright (c) 2024 ZhengPeng.
+  - ONNX Runtime (https://github.com/microsoft/onnxruntime), MIT License,
+    Copyright (c) Microsoft Corporation.
+  - DirectML (https://www.nuget.org/packages/Microsoft.AI.DirectML),
+    redistributed under the Microsoft DirectML license.
+  Their full license texts and third-party notices are installed next to them,
+  in the "cutout" folder.
+- The optional "Video tools" part is the FFmpeg program described above.

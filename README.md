@@ -42,6 +42,7 @@ Snapify updates itself: when a new version is out, a banner appears on the shelf
 | **Measure** | Pixel distances and sizes on anything on screen. |
 | **Copy Text** | Drag over anything on screen and its text is copied, recognized offline. |
 | **Blur & redact** | Faces are found for you, and one click hides emails, card and phone numbers. The pixels are really gone, not just covered. |
+| **Remove background** | One key cuts the subject out: flat backgrounds exactly, photos with an AI model that runs offline on your graphics card and leaves memory again when you're done. |
 | **Export** | PNG, JPEG, WebP or AVIF. Set a max file size (say, 10 MB for Discord) and Snapify finds the best quality that fits. |
 | **Drag & drop** | Drop or paste images and videos into Snapify. Ctrl + drag a snip out into Discord, Explorer or mail. |
 
@@ -51,7 +52,7 @@ Snapify updates itself: when a new version is out, a banner appears on the shelf
 - Nothing is written to disk until you press Save, and saved files carry **no metadata**.
 - Copies skip clipboard history, cloud clipboard and clipboard managers.
 - Snapify never appears in its own snips. **Stream-proof** decides what Discord, OBS and screen sharing see of it: normal, invisible or black.
-- No accounts, no telemetry. Text recognition runs offline. The only network request is the update check, and you can turn it off.
+- No accounts, no telemetry. Text recognition and background removal run offline. Snapify itself only asks GitHub for the newest version, and you can turn that off. The installer downloads the optional parts you pick (video tools, background removal) from this repository, checked against a fingerprint built into it.
 
 ## Shortcuts
 
